@@ -1,16 +1,14 @@
 ### Hi there 👋
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zahrizhal-ali/)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/ZahrizhalAli)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@zahrizhalali)
 
-<!--
-**ZahrizhalAli/ZahrizhalAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Zahrizhal Ali
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 AI/ML Engineer | Data Scientist | Software Engineer ✨
+- 📫 How to reach me: zzahrizhal.ali@gmail.com
+- ⚡ Fun fact: If i'm not busy developing AI models you can find me teaching random cats how neural network works. Also, I am a tech community player 😉.
+
+![](https://komarev.com/ghpvc/?username=ZahrizhalAli)
+
