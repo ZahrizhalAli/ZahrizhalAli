@@ -5,8 +5,8 @@
 
 <p align="center">
   <ul>
-    <li>🏢 AI/ML Engineer | Data Scientist | Software Engineer ✨</li>
-    <li>📫 How to reach me: zzahrizhal.ali@gmail.com</li>
+    <li>🏢 AI/ML Engineer | Data Scientist | CS @ Cornell✨</li>
+    <li>📫 How to reach me: za89@cornell.edu</li>
     <li>⚡ Fun fact: If i'm not busy developing AI models you can find me teaching random cats how neural network works. Also, I am a tech community player 😉.</li>
    </ul>
  </p>
