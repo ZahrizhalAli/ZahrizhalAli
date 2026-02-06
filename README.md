@@ -32,11 +32,11 @@ Generative AI • Agentic Systems • Large Language Models • Machine Learning
 
 ## 🚀 Projects
 
+📝 **[tldwrite](https://github.com/ZahrizhalAli/tldwrite)**  
+(In Progress) on a mission to build a real swe-coding agent that can do whatever Software Engineers have no time to do. 
+
 🔁 **[Async Ring AllReduce](https://github.com/ZahrizhalAli/async-ring-allreduce)**  
 Evaluation of an asynchronous ring AllReduce communication primitive for distributed training.
-
-📝 **[tldwrite](https://github.com/ZahrizhalAli/tldwrite)**  
-Repository analyzer that auto-generates documentation and summaries for codebases.
 
 ⚡ **[Strided Attention CUDA](https://github.com/ZahrizhalAli/strided-attention-cuda)**  
 High-performance CUDA implementation of memory-efficient strided attention.
