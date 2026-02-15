@@ -31,7 +31,7 @@ Generative AI • Agentic Systems • Large Language Models • Machine Learning
 ---
 
 ## 🚀 Projects
-📝 **[lokin](https://github.com/ZahrizhalAli/lokin)**  
+🎙️ **[lokin](https://github.com/ZahrizhalAli/lokin)**  
 (In Progress) to build a multimodal conversational chatbot pipeline with UI.
 
 
