@@ -17,7 +17,7 @@ AI/ML Engineer • Generative AI • Systems + Performance • Cornell CS
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Snack
 
 **Languages & Frameworks**  
 Python • C++ • TensorFlow • PyTorch • Keras • CUDA • Scikit-Learn • Pandas • NumPy  
