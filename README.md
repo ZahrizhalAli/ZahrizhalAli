@@ -17,13 +17,15 @@ AI/ML Engineer • Generative AI • Systems + Performance • Cornell CS
 
 ---
 
+I built Agents!
+
 ## ⚙️ Tech Snack
 
 **Languages & Frameworks**  
 Python • C++ • TensorFlow • PyTorch • Keras • CUDA • Scikit-Learn • Pandas • NumPy  
 
 **Tools & Infra**  
-Git • FastAPI • PostgreSQL • Pinecone • Supabase • Azure AI • MLflow • HuggingFace • LangChain • LangGraph • FastMCP • n8n  
+Git • FastAPI • PostgreSQL • Pinecone • Supabase • Azure AI • MLflow • HuggingFace • LangChain • LangGraph • FastMCP • n8n • vLLM  
 
 **Focus Areas**  
 Generative AI • Agentic Systems • Large Language Models • Machine Learning • Parallel & Distributed Computing
@@ -33,7 +35,6 @@ Generative AI • Agentic Systems • Large Language Models • Machine Learning
 ## 🚀 Projects
 🎙️ **[lokin](https://github.com/ZahrizhalAli/lokin)**  
 (In Progress) to build a multimodal conversational chatbot pipeline with UI.
-
 
 📝 **[tldwrite](https://github.com/ZahrizhalAli/tldwrite)**  
 (In Progress) on a mission to build a real swe-coding agent that can do whatever Software Engineers have no time to do. 
