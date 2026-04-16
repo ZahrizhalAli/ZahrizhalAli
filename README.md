@@ -36,6 +36,8 @@ Generative AI • Agentic Systems • Large Language Models • Machine Learning
 🎙️ **[lokin](https://github.com/ZahrizhalAli/lokin)**  
 (In Progress) to build a multimodal conversational chatbot pipeline with UI. An AI Interviewer Mockup Agent.
 
+🎛️ **[macrs]Implementation of the MACRS architecture from arxiv.org/abs/2402.01135 (https://github.com/ZahrizhalAli/macrs)**
+
 📝 **[tldwrite](https://github.com/ZahrizhalAli/tldwrite)**  
 (In Progress) on a mission to build a real swe-coding agent that can do whatever Software Engineers have no time to do. 
 
